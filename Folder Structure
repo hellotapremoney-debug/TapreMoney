@@ -1,0 +1,11 @@
+TapreMoney/
+│
+├── index.html
+├── style.css
+├── README.md
+├── LICENSE
+└── assets/
+    ├── images/
+    │   ├── favicon.png      # छोटा logo
+    │   └── hero-banner.jpg  # hero section image/banner
+    └── icons/
